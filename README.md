@@ -1,7 +1,5 @@
 # Blog-App
 
-### Project Authors: Sardar Asfandyar Cheema, Jiyu Chen, Shu Chen, Francesca Marini
-
 Welcome to Blog-App! 
 
 Blog-App is a Reddit-like, MERN-stack application.
