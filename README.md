@@ -1,17 +1,18 @@
 # CIS 557 Final Project: Blog-App
 
-## Project Authors: Sardar Asfand Cheema, Jiyu Chen, Shu Chen, Francesca Marini
+### Project Authors: Sardar Asfandyar Cheema, Jiyu Chen, Shu Chen, Francesca Marini
 
 Welcome to Blog-App! 
 
 This was a final project for CIS 557: Programming for the Web, offered in Fall 2021 at the University of Pennsylvania, for Prof. Eric Fouh.
 
-For highly detailed documentation, please see our [Project Wiki](https://github.com/cis557/fall-2021-project-group-centric-social-network-team-21/wiki).
+Blog-App is a Reddit-like, MERN-stack application.
+
+For highly detailed documentation of the code and contributions, please see our [Project Wiki](https://github.com/cis557/fall-2021-project-group-centric-social-network-team-21/wiki).
 
 ### Deployment
 
-This app was deployed using Heroku. You can view it at this address: https://blog-app-group-21.herokuapp.com
-
+This app was deployed using Heroku. You can view it at this address: https://blog-app-project-21.herokuapp.com
 
 ### Setup & Running the Application Locally
 
