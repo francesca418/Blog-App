@@ -8,7 +8,7 @@ This was a final project for CIS 557: Programming for the Web, offered in Fall 2
 
 Blog-App is a Reddit-like, MERN-stack application.
 
-For highly detailed documentation of the code and contributions, please see our [Project Wiki](https://github.com/cis557/fall-2021-project-group-centric-social-network-team-21/wiki).
+For highly detailed documentation of the code and contributions, please see our [Project Wiki](https://github.com/francesca418/Blog-App/wiki).
 
 ### Deployment
 
@@ -39,7 +39,7 @@ npm start
 
 ### Housekeeping
 
-Please refer to the Project Wiki for detailed documentation. It can be found here: https://github.com/cis557/fall-2021-project-group-centric-social-network-team-21/wiki
+Please refer to the Project Wiki for detailed documentation. It can be found here: https://github.com/francesca418/Blog-App/wiki
 
 The project management for this document was done via a Kanban Board Project in Github. You can view that here: https://github.com/cis557/fall-2021-project-group-centric-social-network-team-21/projects/1
 
