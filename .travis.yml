@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "14"
+script:
+  - npm install
+  # - npm test
+  - cd client
+  - npm install
+  - npm run build
+branches:
+  only:
+  # - frontend-testing
+  # - backend-testing
+  # - unit-test
+  - main
