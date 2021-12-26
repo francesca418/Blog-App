@@ -1,10 +1,8 @@
-# CIS 557 Final Project: Blog-App
+# Blog-App
 
 ### Project Authors: Sardar Asfandyar Cheema, Jiyu Chen, Shu Chen, Francesca Marini
 
 Welcome to Blog-App! 
-
-This was a final project for CIS 557: Programming for the Web, offered in Fall 2021 at the University of Pennsylvania, for Prof. Eric Fouh.
 
 Blog-App is a Reddit-like, MERN-stack application.
 
