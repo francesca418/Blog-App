@@ -12,7 +12,7 @@ For highly detailed documentation of the code and contributions, please see our 
 
 ### Deployment
 
-This app was deployed using Heroku. You can view it at this address: https://blog-app-project-21.herokuapp.com
+This app was deployed using Heroku. You can view it at this address: https://blog-app-group-21.herokuapp.com
 
 ### Setup & Running the Application Locally
 
