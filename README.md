@@ -39,9 +39,9 @@ npm start
 
 ### Housekeeping
 
-Please refer to the Project Wiki for detailed documentation. It can be found here: https://github.com/francesca418/Blog-App/wiki
+Please refer to the [Project Wiki](https://github.com/francesca418/Blog-App/wiki) for detailed documentation.
 
-The project management for this document was done via a Kanban Board Project in Github. You can view that here: https://github.com/cis557/fall-2021-project-group-centric-social-network-team-21/projects/1
+The project management for this document was done via a [Kanban Board Project](https://github.com/cis557/fall-2021-project-group-centric-social-network-team-21/projects/1) in Github.
 
 There are several branches in this repo; however, there are really only four relevant, active branches of interest.
 1. ```implementation branch:``` this branch contains all of the development code for the app.
